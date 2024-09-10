@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sankalp139
-- 👀 I’m interested in Programming and Software Development.
-- 🌱 I’m currently working on Projects in Nodejs, Python and React.
+- 👀 I’m an Experienced DevOps Engineer passionate about automation and containerization.
+- 🌱 I’m currently working on Kubernetes Clusters and Infrastructure as a code using Terraform. 
 - 📫 
 
 <!---
